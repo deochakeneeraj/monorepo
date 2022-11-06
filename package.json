@@ -1,0 +1,19 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "example creating monorepo",
+  "main": "./packages/index.ts",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deochakeneeraj/monorepo.git"
+  },
+  "author": "Neeraj Deochake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deochakeneeraj/monorepo/issues"
+  },
+  "homepage": "https://github.com/deochakeneeraj/monorepo#readme"
+}
