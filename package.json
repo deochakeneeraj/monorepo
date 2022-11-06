@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "example creating monorepo",
   "scripts": {
-    "test": "exit 1"
+    "test": "npx lerna run test",
+    "start": "npx lerna run start",
+    "clean": "npx lerna clean -y",
+    "bootstrap": "npx lerna bootstrap --hoist",
+    "new-version": "npx lerna version --conventional-commits --yes",
+    "diff": "npx lerna diff",
+    "publish": "npx lerna publish"
   },
   "repository": {
     "type": "git",
