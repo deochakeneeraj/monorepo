@@ -1,0 +1,11 @@
+{
+  "name": "electronics",
+  "version": "1.0.0",
+  "description": "electronics1",
+  "main": "index.ts",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "author": "Neeraj Deochake",
+  "license": "ISC"
+}
