@@ -1,7 +1,7 @@
 {
   "name": "electronics",
   "version": "1.0.0",
-  "description": "electronics1",
+  "description": "electronics",
   "main": "index.ts",
   "scripts": {
     "test": "exit 1"
